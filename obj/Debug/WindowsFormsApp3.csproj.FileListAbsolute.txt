@@ -1,0 +1,11 @@
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu.resources
+C:\Users\AAA\Desktop\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.PizzaOrder.resources
